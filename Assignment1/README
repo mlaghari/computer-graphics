@@ -1,0 +1,25 @@
+Submission by: Mohammad Laghari
+Student ID: 0069487
+Email: mlaghari16@ku.edu.tr
+Date Submission: 9th March 2018
+Course: COMP510 Computer Graphics (Assignment 1)
+
+File structure:
+	Assignment1/include:
+		Angel.h
+		mat.h
+		vec.h
+	Assignment1/input_files:
+		car.off
+		sphere.off
+	Assignment1/shaders:
+		fshader.glsl
+		vshader.glsl
+
+Implementation is in file main.cpp
+
+To run:
+	make
+	./a.out
+To clean:
+	make clean
